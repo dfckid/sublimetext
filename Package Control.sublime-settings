@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"FileHeader",
+		"Package Control",
+		"SublimeGit",
+		"Theme - Spacegray"
+	]
+}
